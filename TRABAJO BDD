@@ -1,2 +1,5 @@
-HOLA 
-GENTE 
+Mostrar marca, modelo,tipo de vehículo, color, tipo de color y el propietario del vehículo.
+Mostrar numero de matricula, nombre de la jefatura al igual que la marca, modelo,tipo de vehículo, Placa, color, tipo de color y el propietario del vehículo que estén matriculados en la ciudad de Miraflores Antioquia y Miraflores Cundinamarca. 
+Mostrar la cantidad de los vehículos matriculados en la ciudad de Yopal.
+Mostrar la jefatura de transito, ciudad y departamento, cuyo costo de  matricula sean superiores $200.000 
+Mostrar la información de matricula de los vehículos marca Toyota cuyo color sea blanco
